@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titan One', cursive;
+}
+.maindiv{
+    height: 700px;
+    width: 1215px;
+    background-color: #FFB8C9;
+}

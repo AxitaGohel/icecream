@@ -1,0 +1,115 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.maindiv{
+    height: 390px;
+    width: 1215px;
+    background-color: #FFB8C9;
+}
+.h1{
+    padding-top: 10%;
+    padding-left: 9%;
+    color: white;
+    font-family: 'Titan One',cursive;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 94.5%;
+}
+.h2{
+    padding-top: 9%;
+    padding-left: 9%;
+    color: #C91254;
+    font-family: 'Titan One';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 94.5%;
+}
+.sub{
+    height: 50px;
+    width: 130px;
+    border-radius: 25px;
+    border: none;
+    padding: 10px 20px;
+    background-color: #C91254;
+    margin-left: 1px;
+    margin-top: 45px;
+}
+.sub input{
+    text-decoration: none;
+    border: none;
+    background-color: #C91254;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.reg{
+    text-decoration: none;
+    height: 50px;
+    width: 130px;
+    border-color: #C91254;
+    border: 1px solid #EB9EB9;
+    border-radius: 25px;
+    padding: 10px 20px;
+    margin-left: 1px;
+    background-color: white;
+}
+.reg a{
+    text-decoration: none;
+    border: none;
+    background-color: white;
+    color: #C91254;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+.link{
+    list-style-type: none;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.link a{
+    text-decoration: none;
+    color: #C91254;
+    font-family: 'DM Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+}
+.f1{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 65px ;
+    font-size: 25px;
+}
+.f2{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 40px ;
+    font-size: 25px;
+}
+.fa1{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa1 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.fa2{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa2 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}

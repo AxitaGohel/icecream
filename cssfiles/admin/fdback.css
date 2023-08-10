@@ -1,0 +1,46 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    padding-top: 6%;
+    padding-left: 3%;
+    color: #C91254;
+    font-family: 'Titan One';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 94.5%;
+}
+.tab2{
+    border: solid 4px #FFB8C9;
+    margin-top: 45px;
+    width: 95%;
+    height: 60%;
+}
+.row1{
+    color: #C91254 ;
+    margin-top: 45px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.btndelete{
+    height: 30px;
+    width: 80px;
+    border-radius: 25px;
+    border: none;
+    padding: 10px 20px;
+    background-color: #C91254;
+    margin-left: 1px;
+    margin-top: 10px;
+}
+.btndelete a{
+    text-decoration: none;
+    border: none;
+    background-color: #C91254;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}

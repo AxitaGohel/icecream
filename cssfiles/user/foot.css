@@ -1,0 +1,19 @@
+.footer{
+    text-align: center;
+    margin-top: 8%;
+    color: #C91254;
+    font-family: DM Sans;
+    font-size: 14px;
+    font-weight: 500;
+}
+.footerdiv{
+    margin-top: 10%;
+    height: 450px;
+    width: 1215px;
+    background-color: #FFF5F7;
+}
+.logo2 img{
+    margin-top: 8%;
+    width: 63%;
+    height: auto;
+}

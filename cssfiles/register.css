@@ -1,0 +1,151 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.maindiv{
+    height: 390px;
+    width: 1215px;
+    background-color: #FFB8C9;
+}
+.h1{
+    padding-top: 10%;
+    padding-left: 9%;
+    color: white;
+    font-family: 'Titan One';
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 94.5%;
+}
+.h2{
+    padding-top: 9%;
+    padding-left: 9%;
+    color: #C91254;
+    font-family: 'Titan One';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 94.5%;
+}
+.sub{
+    height: 50px;
+    width: 130px;
+    border-radius: 25px;
+    border: none;
+    padding: 10px 20px;
+    background-color: #C91254;
+    margin-left: 1px;
+    margin-top: 45px;
+}
+.sub input{
+    text-decoration: none;
+    border: none;
+    background-color: #C91254;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+    
+}
+.f1{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 65px ;
+    font-size: 25px;
+}
+.fa1{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa1 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.f2{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 25px ;
+    font-size: 25px;
+}
+.fa2{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa2 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.f3{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 35px ;
+    font-size: 25px;
+}
+.fa3{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa3 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.f4{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 35px ;
+    font-size: 25px;
+}
+.fa4{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa4 input{
+    height: 30px;
+    width: 49%;
+    color: #f8dbe2;
+    background-color: #FDF2F5;
+    border: none;
+    border-radius: 6px;
+}
+.f5{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 35px ;
+    font-size: 25px;
+}
+.fa5{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa5 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.f6{
+    color: #EB9EB9;
+    margin-left: 38%;
+    margin-top: 35px ;
+    font-size: 25px;
+}
+.fa6{
+    margin-left: 38%;
+    margin-top: 15px ;
+}
+.fa6 input{
+    height: 30px;
+    width: 49%;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}

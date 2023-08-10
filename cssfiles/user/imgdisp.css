@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Titan One', cursive;
+}
+.maindiv{
+    height: 290px;
+    width: 1215px;
+    background-color: #FFB8C9;
+}
+.h1{
+    padding-top: 10%;
+    padding-left: 9%;
+    color: white;
+    font-family: 'Titan One',cursive;
+    font-weight: 400;
+    font-size: 90px;
+    line-height: 94.5%;
+}
+.h2{
+    padding-top: 6%;
+    padding-left: 9%;
+    color: #C91254;
+    font-family: 'Titan One';
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 94.5%;
+}
+.main1{
+    display: flex;
+
+}
+.photo img{
+    width: 30px;
+    height: 30px;
+    border: none;
+    border-radius: 10px;
+}

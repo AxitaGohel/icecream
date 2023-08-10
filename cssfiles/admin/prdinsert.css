@@ -1,0 +1,123 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.h1{
+    font-family: 'Titan One', cursive;
+    font-size: 30px;
+    margin-top: 30px;
+    font-weight: 100px;
+    color: #C91254;
+}
+.f1{
+    color: #f3aac3;
+    margin-left: 35%;
+    margin-top: 65px ;
+    font-size: 25px;
+}
+.fa1{
+    margin-top: 69px;
+    margin-left: 53px;
+    width: 40%;
+}
+.fa1 input{
+    height: 30px;
+    color: #C91254;
+    text-align: center;
+    width: 49%;
+    border: none;
+    border-radius: 6px;
+}
+.m1{
+    display: flex;
+}
+.f2{
+    color: #f3aac3;
+    margin-left: 35%;
+    margin-top: 35px ;
+    font-size: 25px;
+}
+.fa2{
+    margin-top:35px;
+    margin-left: 56px;
+    width: 40%;
+}
+.fa2 input{
+    height: 30px;
+    width: 49%;
+    color: #C91254;
+    text-align: center;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.m2{
+    display: flex;
+}
+.f3{
+    color: #f3aac3;
+    margin-left: 35%;
+    margin-top: 40px ;
+    font-size: 25px;
+}
+.fa3{
+    margin-top: 40px;
+    margin-left: 67px;
+    width: 40%;
+}
+.fa3 input{
+    height: 30px;
+    width: 49%;
+    color: #C91254;
+    text-align: center;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.m3{
+    display: flex;
+}
+.f4{
+    color: #f3aac3;
+    margin-left: 35%;
+    margin-top: 40px ;
+    font-size: 25px;
+}
+.fa4{
+    margin-top: 40px;
+    margin-left: 30px;
+    width: 40%;
+}
+.fa4 input{
+    height: 30px;
+    width: 49%;
+    color: #C91254;
+    text-align: center;
+    background-color: #f8dbe2;
+    border: none;
+    border-radius: 6px;
+}
+.m4{
+    display: flex;
+}
+.btn{
+    height: 50px;
+    width: 130px;
+    border-radius: 25px;
+    border: none;
+    padding: 8px 18px;
+    background-color: #C91254;
+    margin-left: 1px;
+    margin-top: 45px;
+}
+.btn input{
+    text-decoration: none;
+    font-size: 15px;
+    border: none;
+    background-color: #C91254;
+    color: white;
+    text-align: center;
+    margin: 4px 2px;
+    cursor: pointer;
+}
